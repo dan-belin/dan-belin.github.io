@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Dan Belin
 tagline:          'A Jekyll theme'
 description:      ''
-url:              https://dan-belin.github.io
+url:              https://dan-belin.github.io/
 baseurl:          /
 
 author:
