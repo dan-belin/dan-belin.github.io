@@ -14,7 +14,7 @@ url:              https://dan-belin.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Daniel Belin'
   url:            https://twitter.com/dfbelin
 
 paginate:         5
