@@ -11,4 +11,4 @@ Confirming that page structure mostly works
 
 ### Math
 
-OK, so what about math? $$f'(x) = \text{lim}_{y \rightarrow x} \frac{f(x) - f(y)}{x - y}$$. 
+OK, so what about math? $$f'(x) = \text{lim}_{h \rightarrow 0} \frac{f(x + h) - f(x)}{h}$$. 
